@@ -1,0 +1,100 @@
+
+.div {
+  margin: 0; 
+  position: fixed;
+}
+
+.body {background-color: #f3faf3;}
+
+
+
+.toggle-button { 
+  width: 110px;
+  height: 110px;
+  padding: 50px;
+  margin: 0;
+  background-color: transparent;
+  background-image: url("img/hamburger_menu.png"); 
+  background-position: left;
+  background-size: 100%;
+  cursor: pointer;
+  border: none;}
+
+
+
+ .nav-colors {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    visibility: hidden;}
+
+
+.home {
+    background-color: #f3faf3; 
+    width: 110px; 
+    height: 30px;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;}
+
+  .red {
+    background-color: #fc1313; 
+    width: 110px;
+    height: 30px;
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  
+
+  .orange {
+    background-color: #f0a70b;
+    width: 110px;
+    height: 30px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
+  .yellow {
+    background-color: #f7e81c; 
+    width: 110px;border: none;
+    height: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    }
+
+  
+
+  .green {
+    background-color: #4CAF50;
+    width: 110px;
+    height: 30px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    }
+
